@@ -18,7 +18,7 @@ print("El resultado de la suma es:", Resultado_suma)
 #     print("3. Para dividir")
 #     print("4. Sobras")
 #     print("5. Suma de tres numeros")
-#     print("6. Operaciones mixtas")
+#     print("6. Para hacer una operacion mixta")
 #     print("7. Salir")
 
 #     opcion = input("Seleccione una opcion: ")
